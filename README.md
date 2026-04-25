@@ -49,3 +49,23 @@ python main.py
 - Created 5 dimension tables
 - Implemented watermark-based incremental loading
 - Built star schema for analytics reporting
+
+  ## Screenshots
+
+### ETL Pipeline Success
+![ETL](screenshots/etl-success.png)
+
+### Star Schema Tables
+![Schema](screenshots/schema-tables.png)
+
+### Fact Table Sample Data
+![Fact](screenshots/fact-table-data.png)
+
+### Watermark Table
+![Watermark](screenshots/watermark.png)
+
+### Row Counts
+![Counts](screenshots/row-counts.png)
+
+### Sales Analytics
+![Analytics](screenshots/analytics-query.png)
