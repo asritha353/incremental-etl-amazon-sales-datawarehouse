@@ -42,3 +42,10 @@ pip install -r requirements.txt
 3. Run pipeline:
 
 python main.py
+
+## Results
+
+- Loaded 128,975 rows into `fact_sales`
+- Created 5 dimension tables
+- Implemented watermark-based incremental loading
+- Built star schema for analytics reporting
